@@ -1,0 +1,29 @@
+{
+  "subTotal": 4692,
+  "dataDeEntrega": "2021-05-31T21:16:44.458Z",
+  "valorDoFrete": 5000,
+  "totalAPagar": 9692,
+  "produtos": [
+    {
+      "id": 3,
+      "quantidade": 1,
+      "nome": "Limpador Cif Multiuso 800g Em Pó",
+      "preco": 999,
+      "categoria": "Limpeza"
+    },
+    {
+      "id": 5,
+      "quantidade": 1,
+      "nome": "Biscoito BAUDUCCO Choco Biscuit Leite 80g",
+      "preco": 519,
+      "categoria": "Bazar"
+    },
+    {
+      "id": 4,
+      "quantidade": 6,
+      "nome": "Desinfetante Uso Geral Herbal Omo Frasco 500ml",
+      "preco": 529,
+      "categoria": "Limpeza"
+    }
+  ]
+}

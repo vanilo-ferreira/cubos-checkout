@@ -1,0 +1,11 @@
+{
+    "type": "individual",
+    "country": "br",
+    "name": "Aardvark Silva",
+    "documents": [
+        {
+            "type": "cpf",
+            "number": "00000000000"
+        }
+    ]
+}
